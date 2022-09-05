@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 :point_right: I'm currently learning Advanced Compter Vision Techniques \
 :point_right: Ask me about python, Image pre-processing, Production :muscle: \
 :point_right: Love to learn new Concepts 	:heart: \
-:point_right: 📫 How to reach me: @https://www.linkedin.com/in/raghu-nandan143/
+:point_right: 📫 Reach me: @https://www.linkedin.com/in/raghu-nandan143/
 
