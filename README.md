@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 :point_right: Coder by Passion :man_technologist: \
 :point_right: Intersted in Computer Vision :camera:, NLP :bookmark_tabs: and Deep Learning :chart_with_upwards_trend: \
-:point_right: I'm currently learning Advanced Compter Vision Techniques \
+:point_right: I'm currently learning Advanced Computer Vision Techniques \
 :point_right: Ask me about python, Image pre-processing, Production :muscle: \
 :point_right: Love to learn new Concepts 	:heart: \
 :point_right: 📫 Reach me: @https://www.linkedin.com/in/raghu-nandan143/
